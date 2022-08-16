@@ -35,7 +35,7 @@ This theme comes in nine different skins (in addition to the default one).
 
 | `dirt` | `mint` | `sunrise` |
 | --- | --- | --- |
-| [![dirt skin]([https://mmistakes.github.io/minimal-mistakes/assets/images/dirt-skin-archive.png](https://flic.kr/p/2nEBQFc))](https://mmistakes.github.io/minimal-mistakes/assets/images/dirt-skin-archive-large.png) | [![mint skin](https://mmistakes.github.io/minimal-mistakes/assets/images/mint-skin-archive.png)](https://mmistakes.github.io/minimal-mistakes/assets/images/mint-skin-archive-large.png) | [![sunrise skin](https://mmistakes.github.io/minimal-mistakes/assets/images/sunrise-skin-archive.png)](https://mmistakes.github.io/minimal-mistakes/assets/images/sunrise-skin-archive-large.png) |
+| [![dirt skin]([https://mmistakes.github.io/minimal-mistakes/assets/images/dirt-skin-archive.png](https://flic.kr/p/2nEBQFc))]([https://flic.kr/p/2nEBQFc](https://flic.kr/p/2nEBQFc)) | [![mint skin](https://mmistakes.github.io/minimal-mistakes/assets/images/mint-skin-archive.png)](https://mmistakes.github.io/minimal-mistakes/assets/images/mint-skin-archive-large.png) | [![sunrise skin](https://mmistakes.github.io/minimal-mistakes/assets/images/sunrise-skin-archive.png)](https://mmistakes.github.io/minimal-mistakes/assets/images/sunrise-skin-archive-large.png) |
 
 | `aqua` | `neon` | `plum` |
 | --- | --- | --- |
