@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://flic.kr/p/2nEBQFc)
 ```
 ## Skins (color variations)
 
@@ -35,7 +35,7 @@ This theme comes in nine different skins (in addition to the default one).
 
 | `dirt` | `mint` | `sunrise` |
 | --- | --- | --- |
-| [![dirt skin]([https://mmistakes.github.io/minimal-mistakes/assets/images/dirt-skin-archive.png](https://flic.kr/p/2nEBQFc))]([https://flic.kr/p/2nEBQFc](https://flic.kr/p/2nEBQFc)) | [![mint skin](https://mmistakes.github.io/minimal-mistakes/assets/images/mint-skin-archive.png)](https://mmistakes.github.io/minimal-mistakes/assets/images/mint-skin-archive-large.png) | [![sunrise skin](https://mmistakes.github.io/minimal-mistakes/assets/images/sunrise-skin-archive.png)](https://mmistakes.github.io/minimal-mistakes/assets/images/sunrise-skin-archive-large.png) |
+| [![dirt skin]([https://mmistakes.github.io/minimal-mistakes/assets/images/dirt-skin-archive.png](https://flic.kr/p/2nEBQFc))]([https://flic.kr/p/2nEBQFc](https://flic.kr/p/2nEBQFc)) | [![mint skin](https://mmistakes.github.io/minimal-mistakes/assets/images/mint-skin-archive.png)](https://mmistakes.github.io/minimal-mistakes/assets/images/mint-skin-archive-large.png) | [![sunrise skin](https://mmistakes.github.io/minimal-mistakes/assets/images/sunrise-skin-archive.png)]([[[https://mmistakes.github.io/minimal-mistakes/assets/images/sunrise-skin-archive-large.png](https://flic.kr/p/2nEBQFc)](https://flic.kr/p/2nEBQFc)](https://flic.kr/p/2nEBQFc)) |
 
 | `aqua` | `neon` | `plum` |
 | --- | --- | --- |
