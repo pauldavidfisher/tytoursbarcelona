@@ -31,7 +31,7 @@ This theme comes in nine different skins (in addition to the default one).
 
 | `air` | `contrast` | `dark` |
 | --- | --- | --- |
-| [![air skin](https://mmistakes.github.io/minimal-mistakes/assets/images/air-skin-archive.png)](https://mmistakes.github.io/minimal-mistakes/assets/images/air-skin-archive-large.png) | [![contrast skin](https://mmistakes.github.io/minimal-mistakes/assets/images/contrast-skin-archive.png)](https://mmistakes.github.io/minimal-mistakes/assets/images/contrast-skin-archive-large.png) | [![dark skin](https://mmistakes.github.io/minimal-mistakes/assets/images/dark-skin-archive.png)](https://mmistakes.github.io/minimal-mistakes/assets/images/dark-skin-archive-large.png) |
+| [![air skin]([https://mmistakes.github.io/minimal-mistakes/assets/images/air-skin-archive.png](https://scontent.fdet1-1.fna.fbcdn.net/v/t39.30808-6/299658672_10228197046219240_7543456411517531081_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=4E9Lu4wx2F0AX_lcP2y&tn=-cj5yi8XI0ACFMQI&_nc_ht=scontent.fdet1-1.fna&oh=00_AT-kR4jaErK1JyvJkqT0fCkNksPcFeBVz1svLIweUvVd1Q&oe=63001375))](https://mmistakes.github.io/minimal-mistakes/assets/images/air-skin-archive-large.png) | [![contrast skin](https://mmistakes.github.io/minimal-mistakes/assets/images/contrast-skin-archive.png)](https://mmistakes.github.io/minimal-mistakes/assets/images/contrast-skin-archive-large.png) | [![dark skin](https://mmistakes.github.io/minimal-mistakes/assets/images/dark-skin-archive.png)](https://mmistakes.github.io/minimal-mistakes/assets/images/dark-skin-archive-large.png) |
 
 | `dirt` | `mint` | `sunrise` |
 | --- | --- | --- |
